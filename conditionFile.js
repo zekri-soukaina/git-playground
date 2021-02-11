@@ -34,7 +34,7 @@ switch (command) {
 const taste = '';
 switch (taste) {
     case 'good':
-        console.log('thats good one!');
+        console.log('yummy! gitthats good one!');
         break;
     case 'ok':
         console.log('lets say is ok!');
